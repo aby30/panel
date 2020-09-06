@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/panel/static/css/main.1a8d6906.chunk.css",
+    "main.js": "/panel/static/js/main.8dfd5e8c.chunk.js",
+    "main.js.map": "/panel/static/js/main.8dfd5e8c.chunk.js.map",
+    "runtime-main.js": "/panel/static/js/runtime-main.760bfd64.js",
+    "runtime-main.js.map": "/panel/static/js/runtime-main.760bfd64.js.map",
+    "static/js/2.5b3764d9.chunk.js": "/panel/static/js/2.5b3764d9.chunk.js",
+    "static/js/2.5b3764d9.chunk.js.map": "/panel/static/js/2.5b3764d9.chunk.js.map",
+    "index.html": "/panel/index.html",
+    "precache-manifest.91e7e112cc73e579ce1aa95e605fea7a.js": "/panel/precache-manifest.91e7e112cc73e579ce1aa95e605fea7a.js",
+    "service-worker.js": "/panel/service-worker.js",
+    "static/css/main.1a8d6906.chunk.css.map": "/panel/static/css/main.1a8d6906.chunk.css.map",
+    "static/media/fb.svg": "/panel/static/media/fb.8ed51a6a.svg",
+    "static/media/logo.svg": "/panel/static/media/logo.25bf045c.svg",
+    "static/media/moneyPlant.svg": "/panel/static/media/moneyPlant.798fb6f9.svg",
+    "static/media/netflix-logo.png": "/panel/static/media/netflix-logo.2ea85d74.png",
+    "static/media/notification.svg": "/panel/static/media/notification.580b9bc9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.760bfd64.js",
+    "static/js/2.5b3764d9.chunk.js",
+    "static/css/main.1a8d6906.chunk.css",
+    "static/js/main.8dfd5e8c.chunk.js"
+  ]
+}
